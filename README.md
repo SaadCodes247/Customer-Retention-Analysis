@@ -5,11 +5,6 @@
 **Date Required:**  EOD 23rd July 2025
 
 **Data provided:** Single Customer View of customers over last quarter.
-
-**Outputs Required:**
-  * Customer List of 500 most likely to churn.
-  * Customer List of churn risk.
-  * Information presentation Deck
     
 ### Description:
 
@@ -34,3 +29,9 @@ Which customers should we send this to? (please provide list)
 5. When talking with a customer, we’d like the customer service team to have an
 indication of that person’s churn risk. We’d like the churn likelihood of all of our
 remaining customers. (please provide list)
+
+# Output Delivered
+  1. Information presentation deck for marketing team with above analysis completed.
+  2. Top 500 customers that are most likely to leave to competitors.
+  3. All customers and their predicted probabilities of leaving to competitors.
+
